@@ -1,1 +1,3 @@
 this is the first book
+take inputs 
+and save data
