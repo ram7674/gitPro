@@ -1,2 +1,0 @@
-user = ram01
-password = ram02
